@@ -1,7 +1,7 @@
 <p align="center">  
     <img
       alt="Wildfly Jboss"
-      src="https://linagora.com/wp-content/uploads/2018/05/Wildfly-logo.x10701.png"
+      src="https://bgasparotto.com/wp-content/uploads/2015/03/wildfly-datasource-logo.png"
       width="400"
     />
 </p>
