@@ -6,7 +6,7 @@
     />
 </p>
 
-<h2 align="center">Wildfly 15.0.0.Final With JDK 8 Oracle And Drivers JDBC - Postgresql - Jtds - SQLSERVER - Mysql</h2>
+<h3 align="center">Wildfly 15.0.0.Final With JDK 8 Oracle And Drivers JDBC - Postgresql - Jtds - SQLSERVER - Mysql</h3>
 
 * Wildfly versão 15.0.0.Final Oficial
   - https://download.jboss.org/
