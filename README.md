@@ -1,12 +1,12 @@
 <p align="center">  
     <img
       alt="Wildfly Jboss"
-      src="https://design.jboss.org/wildfly/logo/final/wildfly_logo.svg"
-      width="200"
+      src="https://linagora.com/wp-content/uploads/2018/05/Wildfly-logo.x10701.png"
+      width="400"
     />
 </p>
 
-<h3 align="center">Wildfly 15.0.0.Final With JDK 8 Oracle And Drivers JDBC - Postgresql - Jtds - SQLSERVER - Mysql</h3>
+<h2 align="center">Wildfly 15.0.0.Final With JDK 8 Oracle And Drivers JDBC - Postgresql - Jtds - SQLSERVER - Mysql</h2>
 
 * Wildfly versão 15.0.0.Final Oficial
   - https://download.jboss.org/
